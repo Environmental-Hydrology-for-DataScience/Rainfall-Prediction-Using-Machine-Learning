@@ -31,6 +31,7 @@ RainTomorrow is the target variable to predict. It means -- did it rain the next
 
 # Architecture or Model
 The overall architecture include four major components: Data Ex-ploration and Analysis, Data Pre-processing, Model Implementation, and Model Evaluation.
+![Architecture](Architecture.jpg)
 
 # Prediction
 We will be predicting the Rainfall based on the features suitable for rainfall. By considering the ConfusionMatrix, F1 Score. 
