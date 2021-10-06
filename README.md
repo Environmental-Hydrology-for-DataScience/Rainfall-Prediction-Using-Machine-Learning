@@ -1,17 +1,19 @@
+### Rainfall Prediction Using Machine Learning
+
 ## We have divided our project into mainly 7 parts. They are as follows:-
-* **Problem Statement**
+* **[Problem Statement](README.md/#Problem-Statement)**
 
-* **Objective**
+* **[Objective](README.md/#Objective)**
 
-* **Dataset Used**
+* **[Dataset Used](README.md/#Dataset-Used)**
 
-* **Pipeline of the Project**
+* **[Pipeline of the Project](README.md/#Pipeline-of-the-Project)**
 
-* **Architecture or Model**
+* **[Architecture or Model](README.md/#Architecture-or-Model)**
 
-* **Predicted Output**
+* **[Predicted Output](README.md/#Prediction)**
 
-* **References**
+* **[References](README.md/#References)**
 
 # Problem Statement
 Climate is a important aspect of human life. So, the Prediction should accurate as much as possible. In this paper we try to deal with the prediction of the rainfall which is also a major aspect of human life and which provide the major resource of human life which is Fresh Water. Fresh water is always a crucial resource of human survival – not only for the drinking purposes but also for farming, washing and many other purposes.
