@@ -39,11 +39,11 @@ The overall architecture include four major components: Data Ex-ploration and An
 We will be predicting the Rainfall based on the features suitable for rainfall. By considering the ConfusionMatrix, F1 Score. 
 
 # References
-[Publication](https://www.researchgate.net/publication/336914968_Predicting_Rainfall_using_Machine_Learning_Techniques)
+* [Publication](https://www.researchgate.net/publication/336914968_Predicting_Rainfall_using_Machine_Learning_Techniques)
 
-[Visualization](https://github.com/mwaskom/seaborn)
+* [Visualization](https://github.com/mwaskom/seaborn)
 
-[Machine Learning](https://github.com/eriklindernoren/ML-From-Scratch)
+* [Machine Learning](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ## Source Code
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WveSSKVtiLCBHAjI_mJ184g-4TzXtqRb#scrollTo=lVGDyO7QYIBy)
