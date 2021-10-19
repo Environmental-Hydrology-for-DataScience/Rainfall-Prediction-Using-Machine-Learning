@@ -1,24 +1,42 @@
 # Installing Packages
 
-```!pip install pandas```
+```bash
+!pip install pandas
+```
 
-`!pip install seaborn`
+```bash
+!pip install seaborn
+```
 
-`!pip install numpy`
+```bash
+!pip install numpy
+```
 
-`!pip install matplotlib`
+```bash
+!pip install matplotlib`
+```
 
 # Importing Packages
 
-`import pandas as pd`
+```bash
+import pandas as pd
+```
 
-`import seaborn as sns`
+```bash
+import seaborn as sns
+```
 
-`import numpy as np`
+```bash
+import numpy as np
+```
 
-`import matplotlib.pyplot as plt`
+```bash
+import matplotlib.pyplot as plt
+```
 
 # Reading Dataset
 
-`df = pd.read_csv("Dataset_Name.csv")`
+```bash
+df = pd.read_csv("Dataset_Name.csv")
+```
 
