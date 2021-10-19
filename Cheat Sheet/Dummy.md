@@ -1,6 +1,6 @@
 # Installing Packages
 
-`!pip install pandas`
+```bash !pip install pandas```
 
 `!pip install seaborn`
 
