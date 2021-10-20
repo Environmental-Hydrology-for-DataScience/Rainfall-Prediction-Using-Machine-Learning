@@ -175,3 +175,13 @@ The naive Bayes classifier assumes all the features are independent to each othe
 sklearn.metrics.confusion_matrix(y_true, y_pred)
 ```
 A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known.
+
+# Algorithms
+
+ | S.No | Name | Defination |
+ |-----|-----|-----|
+ | 1 | Logistic Regression|	Logistic regression is used to describe data and to explain the relationship between one dependent binary variable. |
+ | 2 | Random Forest	| A Random forest is a machine learning algorithm that develops large numbers of random decision trees analyzing sets of variables. |
+ | 3 | Decision Trees	| A decision tree is a map of the possible outcomes of a series of related choices. It allows to weigh possible actions against one another based on their probabilities. This can can be used to map out an decision that predicts the best choice mathematically. |
+ | 4 | LightGBM	|  Light GBM is a fast, distributed, high-performance gradient boosting framework based on decision tree algorithm, used for ranking and classification.The tree is grows vertically. |
+ | 5 | Naive Bayes	 | Naive Bayes is a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other. |
