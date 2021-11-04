@@ -7,7 +7,7 @@
 
 * **[Dataset Used](#dataset-used)**
 
-* **[Pipeline of the Project](README.md/#pipeline-of-the-project)**
+* **[Pipeline of the Project](Project%20Pipeline/Pipeline.md)**
 
 * **[Architecture](#architecture)**
 
