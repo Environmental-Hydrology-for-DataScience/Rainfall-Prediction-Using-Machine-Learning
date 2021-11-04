@@ -26,7 +26,12 @@ graph depicts the Minimum Temperature at different Locations for two different l
 ![6](https://user-images.githubusercontent.com/76832424/139828366-e32d0ce8-c472-4ff6-a743-527e111e6744.png)
 
 ## 3.Bar Plot
+` A bar chart is a way of summarizing a set of categorical data. The bar chart displays data using a number of bars, each representing a particular category. The height of each bar is proportional to a specific aggregation. It is also possible to color or split each bar into another categorical column in the data, which enables to see the contribution from different categories to each bar or group of bars in the bar chart. Below graph show the mean Rainfall level at each year. `
+
 ![7](https://user-images.githubusercontent.com/76832424/139828371-af8b6557-d679-473d-90d2-b28f4bb3e4fb.png)
 
 ## 4.Joint Plot
+` A Jointplot comprises three plots. One plot displays a bivariate graph which shows how the dependent variable(Y) varies with the independent variable(X). Another plot is placed horizontally at the top of the bivariate graph and it shows the distribution of the independent variable(X). The third plot is placed on the right margin of the bivariate graph with the orientation set to vertical and it shows the distribution of the dependent variable(Y).The graph in the centre shows the plotting of data between Temperature at 9pm and Temperature at 3am. The Top Horizonatol plot shows the distribution of Temperature at 9pm. And the graph at Vertical right side shows the distribution of Temperature at 3am `
+
+
 ![13](https://user-images.githubusercontent.com/76832424/139828386-051d0968-df61-46be-9757-7e2211748473.png)
