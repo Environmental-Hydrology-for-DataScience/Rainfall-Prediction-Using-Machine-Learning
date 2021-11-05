@@ -35,3 +35,32 @@ graph depicts the Minimum Temperature at different Locations for two different l
 
 
 ![13](https://user-images.githubusercontent.com/76832424/139828386-051d0968-df61-46be-9757-7e2211748473.png)
+
+
+## Data Visualization Using Zoho Analytics
+
+`Zoho Analytics is a self-service BI and data analytics software that lets you analyze your data, create stunning data visualizations, and discover hidden insights in minutes.`
+
+![image](https://user-images.githubusercontent.com/89296568/140498543-a7b94e70-1074-4649-80f8-b16cfe7ee16e.png)
+
+![image](https://user-images.githubusercontent.com/89296568/140498454-cfd4e83c-9c45-4473-9e91-ffbe54939c14.png)
+
+![image](https://user-images.githubusercontent.com/89296568/140498785-2eff371b-40d8-4086-b0be-cde6340aecc8.png)
+
+![image](https://user-images.githubusercontent.com/89296568/140498864-85c5192d-7f5d-4c07-b566-4759160117d6.png)
+
+## Dashboards
+
+- [Humidity9am Analysis Dashboard](https://analytics.zoho.in/open-view/208857000000053998)
+
+- [MinTemp Analysis Dashboard](https://analytics.zoho.in/open-view/208857000000051011)
+ 
+- [Pressure3pm Analysis Dashboard](https://analytics.zoho.in/open-view/208857000000055231)
+ 
+- [Rainfall Analysis Dashboard](https://analytics.zoho.in/open-view/208857000000051139)
+
+- [RainToday Analysis Dashboard](https://analytics.zoho.in/open-view/208857000000057177)
+ 
+- [RainTomorrow Analysis Dashboard](https://analytics.zoho.in/open-view/208857000000057449)
+
+
