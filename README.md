@@ -70,7 +70,7 @@ We will be predicting the Rainfall based on the features suitable for rainfall. 
 Vagicherla Sai Avinash
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76832424/140940372-bff31373-ad70-4788-a8a6-d71138cf8e6e.jpg"  height="120" alt="Aryan Kargwal">
+<img src = "https://user-images.githubusercontent.com/76832424/140940372-bff31373-ad70-4788-a8a6-d71138cf8e6e.jpg"  height="120">
 </p>
 <p align="center">
 <a href = "https://github.com/SaiAvinash2002"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
