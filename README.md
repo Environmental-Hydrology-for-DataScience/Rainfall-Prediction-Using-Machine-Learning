@@ -52,7 +52,6 @@ RainTomorrow is the target variable to predict. It means -- did it rain the next
 We will be predicting the Rainfall based on the features suitable for rainfall. By considering the ConfusionMatrix, F1 Score. 
 
 ### References
-* [Publication](https://www.researchgate.net/publication/336914968_Predicting_Rainfall_using_Machine_Learning_Techniques)
 
 * [Visualization](https://github.com/mwaskom/seaborn)
 
@@ -82,14 +81,14 @@ Vagicherla Sai Avinash
 
 <td>
 
-Pendyala Sai Ram
+Sai Ram Pendyala
 
 <p align="center">
-<img src = "https://static.thenounproject.com/png/17241-200.png"  height="120" >
+<img src = "https://user-images.githubusercontent.com/89296568/141094112-98afc7a4-6944-4ed7-bb2c-744d4c2632cc.png"  height="120" >
 </p>
 <p align="center">
-<a href = "https://github.com"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com">
+<a href = "https://github.com/ps1854"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/sai-ram-pendyala-746a2b221/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
