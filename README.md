@@ -19,7 +19,6 @@
 
 ### 🤔Problem Statement
 Climate is a important aspect of human life. So, the Prediction should accurate as much as possible. In this project we try to deal with the prediction of the rainfall which is also a major aspect of human life and which provide the major resource of human life which is Fresh Water. Fresh water is always a crucial resource of human survival – not only for the drinking purposes but also for farming, washing and many other purposes.
-oobj
 Making a good prediction of climate is always a major task now a day because of the climate change.
 
 Now climate change is the biggest issue all over the world. Peoples are working on to detect the patterns in climate change as it affects the economy in production to infrastructure. So as in rainfall also making prediction of rainfall is a challenging task with a good accuracy rate. Making prediction on rainfall cannot be done by the traditional way, so scientist is using machine learning and deep learning to find out the pattern for rainfall prediction.
