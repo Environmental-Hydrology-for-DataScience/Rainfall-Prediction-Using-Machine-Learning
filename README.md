@@ -18,7 +18,7 @@
 * **[Cheat Sheet](Cheat%20Sheet/Cheat%20Sheet.md)**
 
 ### 🤔Problem Statement
-Climate is a important aspect of human life. So, the Prediction should accurate as much as possible. In this paper we try to deal with the prediction of the rainfall which is also a major aspect of human life and which provide the major resource of human life which is Fresh Water. Fresh water is always a crucial resource of human survival – not only for the drinking purposes but also for farming, washing and many other purposes.
+Climate is a important aspect of human life. So, the Prediction should accurate as much as possible. In this project we try to deal with the prediction of the rainfall which is also a major aspect of human life and which provide the major resource of human life which is Fresh Water. Fresh water is always a crucial resource of human survival – not only for the drinking purposes but also for farming, washing and many other purposes.
 oobj
 Making a good prediction of climate is always a major task now a day because of the climate change.
 
