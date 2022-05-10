@@ -185,6 +185,3 @@ A confusion matrix is a table that is often used to describe the performance of 
  | 3 | Decision Trees	| A decision tree is a map of the possible outcomes of a series of related choices. It allows to weigh possible actions against one another based on their probabilities. This can can be used to map out an decision that predicts the best choice mathematically. |
  | 4 | LightGBM	|  Light GBM is a fast, distributed, high-performance gradient boosting framework based on decision tree algorithm, used for ranking and classification.The tree is grows vertically. |
  | 5 | Naive Bayes	 | Naive Bayes is a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other. |
-
-# Accuracy Comparison
- ![image](https://user-images.githubusercontent.com/52819045/138065238-7585855d-3cd7-4dd3-b961-53b6adc1cc10.png)
